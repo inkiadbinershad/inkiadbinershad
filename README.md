@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, CSS, and HTML
 - 🌱 I’m currently learning Android development(kotlin)
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me 
+- 📫 How to reach me : https://www.linkedin.com/in/inkiad-bin-ershad-b99374320/
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am a Gemini with not so smart brain
 
